@@ -1,1 +1,60 @@
-123123
+<!DOCTYPE html>
+
+<html lang="zh">
+
+<head>
+
+ <meta charset="UTF-8">
+
+ <title>KID 飲料店 - 關於我</title>
+
+ <!-- 連結 樣式檔案 -->
+
+ <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+ <div id="box">
+
+  <!-- 導覽列 -->
+
+  <nav>
+
+   <a href="index.html" id="logo">KID 飲料店</a>
+
+   <div>
+
+    <a href="about.html">關於我</a>
+
+
+    <a href="#">聯絡我</a>
+
+   </div>
+
+  </nav>
+
+
+
+  <!-- 關於我區塊 -->
+
+  <!-- section#about -->
+
+  <section id="about">能讓人一邊喝一邊放鬆心情，彷彿有一股魔力，吸引人一而再、再而三品嚐。</section>
+
+ </div>
+
+
+
+ <!-- 頁尾 -->
+
+ <footer>
+
+  KID 飲料店 &copy; 2019
+
+ </footer>
+
+</body>
+
+</html>
